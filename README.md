@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MakennaP
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning FRENCH
+- 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on PROGRAMMING
 - 📫 How to reach me makennahpopp@gmail.com
 
